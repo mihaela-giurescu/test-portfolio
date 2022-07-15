@@ -1,12 +1,4 @@
 remote_theme: pages-themes/hacker@v0.2.0
 title: Mikis test programming portfolio
 description: A beginner programmer, Mihaela Giurescu aka Miki_Dulce_Kiss_Eingel shares her test portfolio with the internet.
-google_analytics: <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1EG8H88200"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-1EG8H88200');
-</script>
+google_analytics:G-1EG8H88200
